@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="search_title">Hasil Pencarian</string>
+    <string name="favorite">Favorit</string>
+    <string name="keywords">Masukkan kata kunci</string>
+    <string name="now_playing">Sedang Dimainkan</string>
+    <string name="upcoming">Akan Datang</string>
+    <string name="cv_save">Movie berhasil ditambahkan ke list favorit</string>
+    <string name="cv_delete">Movie sudah dihapus dari list favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="popular">Populer</string>
+    <string name="communication">Komunikasi</string>
+    <string name="other">Lainnya</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="language">Ganti Bahasa</string>
+    <string name="insancs">Insan Cahya Setia</string>
+    <string name="email">setiainsan8@gmail.com</string>
+    <string name="sinosis">Ringkasan Cerita</string>
+    <string name="desc">Deskripsi</string>
+    <string name="popularity">Popularitas</string>
+    <string name="vote_count">Hitungan Suara</string>
+    <string name="title">Judul</string>
+    <string name="rate">Peringkat</string>
+    <string name="detail">Detail</string>
+    <string name="share_text">Terima Kasih sudah menggunakan aplikasi Catalogue Movie ini, silahkan bagikan dan download di Google Play</string>
+    <string name="wrong_upcoming">Tidak dapat mengambil data Upcoming Movie</string>
+    <string name="wrong_popular">Tidak dapat mengambil data Populer Movie</string>
+    <string name="wrong_nowplaying">Tidak dapat mengambil data Now Playing Movie</string>
+    <string name="wrong_search">Tidak dapat mengambil data movie</string>
+    <string name="alerttext">Apakah Anda ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_daily">Selamat pagi! Apakah kamu siap melihat movie baru hari ini?</string>
+    <string name="release_movie_message">%s tayang hari ini, cek dan lihat!</string>
+    <string name="notifications">Pemberitahuan</string>
+    <string name="daily_reminder_summary">Nyalakan/matikan pengingat harian</string>
+    <string name="upcoming_reminder">Pengingat Upcoming Movie</string>
+    <string name="upcoming_reminder_summary">Nyalakan/matikan pengingat upcoming</string>
+    <string name="setting">Pengaturan</string>
+    <string name="empty_widget">Favorit list kosong</string>
+    <string name="error_upcoming_receiver">Error saat menerima data</string>
+</resources>
